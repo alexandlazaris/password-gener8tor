@@ -1,0 +1,20 @@
+{
+  "name": "password-gener8tor",
+  "version": "1.0.0",
+  "description": "Generate randomised combinations to brute force passwords",
+  "main": "script.sh",
+  "scripts": {
+    "run-mutations": "sh script.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandlazaris/password-gener8tor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandlazaris/password-gener8tor/issues"
+  },
+  "homepage": "https://github.com/alexandlazaris/password-gener8tor#readme"
+}
