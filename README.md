@@ -19,3 +19,4 @@ Each phrase from the datasource file will generate a matching `.txt` output file
 
 ## TODO
 - log time for each phrase mutation
+- add unit tests for `script.sh`
